@@ -3,8 +3,10 @@
   [Uttam Kumar ](https://github.com/Utt977)
   [Sarmen Ter-oganesyan](https://github.com/sarmen-t)
 - [Arham Anwar](https://github.com/arhamcode)
+- [Daniel Omar Zavala](https://github.com/DanielOmarZavala)
 - [Victor Mutethia](https://github.com/dev-vickie)
 - [Furqan Hameed](https://github.com/Furqaaan)
+- [Fumbani Banda](https://github.com/deadex-ng)
 - [Bogusz Borysewicz](https://github.com/KathidB)
 - [Harsh Kumar](https://github.com/harsh-1806)
 - [Manas Tewari](https://github.com/manas311)
@@ -120,6 +122,7 @@ adarshKumar
 - [Shuruzer](https://github.com/shadow3312)
 - [Abhishek Chandra](https://github.com/abhishekchandra2522k)
 - [Yat Yiu Yeung Kenny] (https://github.com/kenny10280703)
+StephenYu2018
 - [Azizbek Yunusalliev 'Hi! from Uzbekistan'](https://github.com/azick99)
 - [Joshua](https://github.com/Joshua-Dias-Barreto)
 - [ZhijunWang1991](https://github.com/ZhijunWang1991)
@@ -403,6 +406,7 @@ Mattia
 - [Tejal Tatiwar](https://tejaltatiwar.github.io/tejaltatiwarwebsite/)
 main
 - [Chris Johannesson](https://chrisjohannesson.com)
+- [PastelDeFeira] (https://github.com/PastelDeFeira)
 - [Archishman Das](https://github.com/starving-array)
 - [Abouar Prosper](https://github.com/4kpros/)
 - [Mohamed O Nar] (https://github.com/mohamedonar)
@@ -418,6 +422,7 @@ main
 - Coey
 - Yonatan
 - Sanjana Udar
+- [Aymen Chabbeh](https://github.com/ChabbehAymen)
 - [Juanma Gutiérrez](https://github.com/Juanma-Gutierrez)
 - Diego Tamayo [https://github.com/Diegot1998]
 - [Ulrich Raab] [https://github.com/Ulimativo]
@@ -439,6 +444,7 @@ main
 - [Jordanjun98](https://github.com/Jordanjun98)
 - [Vivek Tiwari](https://github.com/Tiwari007)
 - [Eddy Gonzalez] (https://github.com/GeekApprentice)
+- [AJ Blackadar](https://github.com/ablackadar)
 - [Jack Juechter](https://github.com/jrj102)
 - [Angeleen Neely-Sardon](https://github.com/librariangie)
 - [Saifolislam Ahmed](https://github.com/saifolislam)
@@ -1115,6 +1121,7 @@ Enrique Javier
 - [Raji Roqeeb](https://github.com/Codebox124)
 - [Ken Durlin](https://github.com/kenthehuman/)
 - [Sanath Raj Petkar](https://github.com/kar108)
+- [Mikołaj Korbanek](https://github.com/MikolajKorbanek)
 - [Shreya Singh]
 - [Rohit Shah](https://github.com/RohitShah1706)
 - [Melanga Dissanayake](https://github.com/melanga)
@@ -2993,6 +3000,7 @@ Fiyinfoluwa Afolayan
 - [ojorgensen](https://github.com/ojorgensen)
 - [Vijay Kumar](https://github.com/Iamthevk)
 - [Andrés Ixcamey](https://github.com/Andx45)
+- [Maik Renner](https://github.com/Maik96)
 - [Mohammad Ashraf Ahmad](https://github.com/AshrafZohdi)
 - [Moez Mustafa](https://github.com/moezmustafa)
 - [Keith Hoffman](https://github.com/khoffLSU)
@@ -4761,6 +4769,7 @@ Fiyinfoluwa Afolayan
 - [Lexzee](https://github.com/lexzee)
 - [Atharvasaraiya](https://github.com/Atharvasaraiya)
 - [The_Baum](https://github.com/TheBaum123)
+- [Barana Jean](https://githun.com/BaranaJean)
 - [Kunal Pitale](https://github.com/iamkunalpitale)
 - [Rimon Sade](https://github.com/Rimonaldo)
 - [Alexandr Volk](https://github.com/ky1e-cyber)
@@ -5097,4 +5106,6 @@ Alonzo Church
 - [berti007](https://github.com/berti007)
 - [atileren](https://github.com/atileren)
 - [marcelopottier](https://github.com/marcelopottier)
+- [CeesayFofana](https://github.com/cfofana)
 - [Amparo](https://github.com/amparoamparo)
+- [juweins](https://github.com/juweins)
